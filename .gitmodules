@@ -1,0 +1,33 @@
+[submodule "libs/actor-framework"]
+	path = libs/actor-framework
+	url = https://github.com/actor-framework/actor-framework.git
+[submodule "libs/asio"]
+	path = libs/asio
+	url = https://github.com/chriskohlhoff/asio.git
+[submodule "libs/benchmark"]
+	path = libs/benchmark
+	url = https://github.com/google/benchmark.git
+[submodule "libs/cocos2d-x"]
+	path = libs/cocos2d-x
+	url = https://github.com/cocos2d/cocos2d-x.git
+[submodule "libs/crossguid"]
+	path = libs/crossguid
+	url = https://github.com/graeme-hill/crossguid.git
+[submodule "libs/executors"]
+	path = libs/executors
+	url = https://github.com/chriskohlhoff/executors.git
+[submodule "libs/googletest"]
+	path = libs/googletest
+	url = https://github.com/google/googletest.git
+[submodule "libs/jni.hpp"]
+	path = libs/jni.hpp
+	url = https://github.com/mapbox/jni.hpp.git
+[submodule "libs/jsoncpp"]
+	path = libs/jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp.git
+[submodule "libs/utils"]
+	path = libs/utils
+	url = https://github.com/thedilletante/utils.git
+[submodule "libs/websocketpp"]
+	path = libs/websocketpp
+	url = https://github.com/zaphoyd/websocketpp.git
