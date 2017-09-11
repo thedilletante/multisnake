@@ -1,33 +1,44 @@
 [submodule "libs/actor-framework"]
 	path = libs/actor-framework
 	url = https://github.com/actor-framework/actor-framework.git
+	ignore = dirty
 [submodule "libs/asio"]
 	path = libs/asio
 	url = https://github.com/chriskohlhoff/asio.git
+	ignore = dirty
 [submodule "libs/benchmark"]
 	path = libs/benchmark
 	url = https://github.com/google/benchmark.git
+	ignore = dirty
 [submodule "libs/cocos2d-x"]
 	path = libs/cocos2d-x
 	url = https://github.com/cocos2d/cocos2d-x.git
+	ignore = dirty
 [submodule "libs/crossguid"]
 	path = libs/crossguid
 	url = https://github.com/graeme-hill/crossguid.git
+	ignore = dirty
 [submodule "libs/executors"]
 	path = libs/executors
 	url = https://github.com/chriskohlhoff/executors.git
+	ignore = dirty
 [submodule "libs/googletest"]
 	path = libs/googletest
 	url = https://github.com/google/googletest.git
+	ignore = dirty
 [submodule "libs/jni.hpp"]
 	path = libs/jni.hpp
 	url = https://github.com/mapbox/jni.hpp.git
+	ignore = dirty
 [submodule "libs/jsoncpp"]
 	path = libs/jsoncpp
 	url = https://github.com/open-source-parsers/jsoncpp.git
+	ignore = dirty
 [submodule "libs/utils"]
 	path = libs/utils
 	url = https://github.com/thedilletante/utils.git
+	ignore = dirty
 [submodule "libs/websocketpp"]
 	path = libs/websocketpp
 	url = https://github.com/zaphoyd/websocketpp.git
+	ignore = dirty
